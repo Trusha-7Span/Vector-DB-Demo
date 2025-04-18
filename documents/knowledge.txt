@@ -1,0 +1,5 @@
+Machine learning is a branch of artificial intelligence that focuses on building systems that learn from data.
+Supervised learning uses labeled data to train models.
+Unsupervised learning finds hidden patterns in unlabeled data.
+Reinforcement learning trains agents through rewards and punishments.
+Deep learning is a subset of machine learning that uses neural networks.
